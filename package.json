@@ -1,0 +1,28 @@
+{
+  "name": "treasure-riot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^6.3.1",
+    "firebaseui": "^4.1.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "riot": "^4.3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terfno/treasure-riot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terfno/treasure-riot/issues"
+  },
+  "homepage": "https://github.com/Terfno/treasure-riot#readme"
+}
